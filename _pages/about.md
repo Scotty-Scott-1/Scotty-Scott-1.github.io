@@ -17,6 +17,4 @@ But what sets us apart from the myriad of dating platforms scattered across the 
 Our platform isn't just about finding a match; it's about fostering genuine connections that have the power to transform lives. Whether you're sharing laughter over virtual coffee dates, exchanging late-night messages that delve into the depths of your souls, or embarking on real-world adventures hand in hand, every interaction you have here has the potential to spark something truly extraordinary.
 
 
-<button> <a href="https://github.com/Scotty-Scott-1/portfolio_v2"> click here to fo the project </a></button>
-
 
