@@ -18,4 +18,4 @@ Our platform isn't just about finding a match; it's about fostering genuine conn
 
 
 
-<button><a href="https://github.com/Scotty-Scott-1/portfolio_v2">link the site</a></button>
+<button><a href="https://github.com/Scotty-Scott-1/portfolio_v2">link to the project repo</a></button>
