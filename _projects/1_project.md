@@ -8,70 +8,10 @@ category: work
 related_publications: true
 ---
 
-If you're actively swiping and match with another user, you will be notified straight away. And if you're offine and a match occurs, you will be notified on your next log in.
+In the scenario of active participation, where users are swiping through profiles in search of potential matches, the significance of real-time notifications cannot be overstated. A match, symbolizing mutual interest and compatibility, serves as a pivotal moment in the user's journey. Therefore, upon a successful match, users are promptly notified, underscoring the immediacy and responsiveness of the platform.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+For users who find themselves temporarily disconnected from the platform, perhaps due to obligations or other engagements, the assurance of not missing out on potential matches remains paramount. In such instances, the system diligently logs any matches that occur during the user's absence, poised to deliver notifications upon their subsequent log-in. This asynchronous approach ensures that no opportunity for connection goes unnoticed, maintaining user satisfaction and engagement.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+This intricate balance between real-time interaction and delayed notification epitomizes the nuanced approach adopted by contemporary dating platforms. It reflects a commitment to user-centric design, wherein every effort is made to facilitate meaningful connections while respecting the diverse lifestyles and preferences of users.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+The management of Fraiseberry notifications represents a harmonious blend of technological sophistication and user-centric design. By prioritizing the seamless delivery of notifications, these platforms uphold their promise of fostering genuine connections in the digital landscape, reaffirming their status as facilitators of modern romance.
